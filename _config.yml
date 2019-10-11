@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile_2.0.png"
+  avatar           : "bio-photo-2.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
+  employer         : "Army Research Labs"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
