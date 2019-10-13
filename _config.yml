@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile_2.0.png"
+  avatar           : "images/profile_2.0.png"
   bio              : "I'm a computational linguist interested in dialogue systems and forensic linguistics."
   location         : "New York 🇺🇸|Birmingham, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
   employer         : "U.S. Army Research Labs"
