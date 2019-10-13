@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mitchell Abrams"
 title_separator          : "-"
 name                     : &name "Mitchell Abrams"
-description              : &description "personal description about Mitchell"
+description              : &description "I am visiting researcher at Aston University, applying computational and corpus methods to forensic linguistic research. I recently recieved a masters from Georgetown University in computational linguistics. I am interested in corpus linguistics (developing and annotating corpora), Coptic treebanking, NLP, and forensic linguistics.
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : ""
   avatar           : "profile_2.0.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : "Army Research Labs"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "I'm a computational linguist interested in dialogue systems and forensic linguistics. "
+  location         : "New York, New York 🇺🇸  (currently: Birmingham, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 )"
+  employer         : "U.S. Army Research Labs"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=YtBJ5XEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
